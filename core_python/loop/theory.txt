@@ -1,0 +1,18 @@
+a loop is a programming construct that allows you to repeatedly execute a block of code. There are two main types of loops in Python:
+
+For Loop: This type of loop iterates over a sequence (such as a list, tuple, string, or range) and executes the block of code for each item in the sequence.
+
+syntax :
+
+[1,2,3,4,4]
+
+for var in sequence:
+    # block of code
+    # do something with var
+
+
+While Loop: This type of loop repeats a block of code as long as a specified condition is true.
+
+Syntax: 
+while condition:
+    # do something
