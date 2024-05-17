@@ -109,3 +109,16 @@ page = 642
 
 # print(r"brijesh go\ndaliya")
 # print(r"brijesh go\ndaliya")
+
+# print("* "*5 )
+
+# fname = "brijesh"
+# lname = "gondaliya"
+# fullname = fname + ' ' + lname 
+# print(fullname)
+
+# for ch in "python":
+    # print(ch)
+
+for num in range(1, 27):
+    print(num, chr(num + 64), '-', ord(chr(num + 64)) , chr(num + 96), '-', ord(chr(num + 96)))
