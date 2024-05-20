@@ -98,6 +98,15 @@ page = 642
 # print("Book name is %s, its price is %.2f and its pages is %d" % (name, price, page))
 
 
+"""
+Escape SequencesStrings can contain special characters using escape sequences:
+\n: Newline
+\t: Tab
+\\: Backslash
+\': Single quote
+\": Double quote
+"""
+
 # print('my name is "brijesh gondaliya"')
 # print("my name is 'brijesh gondaliya'")
 # print('my name is \'brijesh gondaliya\'')
