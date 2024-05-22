@@ -98,3 +98,8 @@ items += mummy
 # 
 # for item in total_products:
 #     print(item)
+
+# 
+# l = ['potato', 'potato']
+# print(id(l[0]))
+# print(id(l[1]))
