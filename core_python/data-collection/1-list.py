@@ -103,3 +103,8 @@ items += mummy
 # l = ['potato', 'potato']
 # print(id(l[0]))
 # print(id(l[1]))
+
+l = [1,2,3,4,5,5,5]
+# l.pop(1)
+l.remove(5)
+print(l)

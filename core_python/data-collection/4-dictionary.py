@@ -47,7 +47,7 @@ products = {
 # products.pop('potato')
 # products.popitem()
 
-print(products)
+# print(products)
 
 # print(products.get('tomato'))
 # print(products.keys())
@@ -69,17 +69,17 @@ car = {
     'name':"BMW",
     # 'color': 'red'
 }
-car.setdefault('color', 'black')
-
+# car.setdefault('color', 'black')
+# 
 new_data = {
     'price':"52L",
     'color':'Blue'
 }
-
-car.update(new_data)
-
-print(car)
-
-x = 10
-x = 20
-print(x)
+# 
+# car.update(new_data)
+# 
+# print(car)
+# 
+# x = 10
+# x = 20
+# print(x)
