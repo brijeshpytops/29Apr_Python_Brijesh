@@ -7,7 +7,7 @@ from auth.forgot_password import *
 
 from posts import post
 from posts import like
-from posts import comment
+from posts import comment as com
 
 # import register
 # import login
@@ -20,4 +20,4 @@ print(user_forgot_password())
 
 print(post.user_post())
 print(like.user_like())
-print(comment.user_comment())
+print(com.user_comment())
