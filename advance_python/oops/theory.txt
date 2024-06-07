@@ -1,0 +1,17 @@
+"OOP" stands for Object-Oriented Programming. It's a programming paradigm that revolves around the concept of "objects," which are instances of classes. Each object can contain both data (attributes) and methods (functions) that operate on that data.
+
+Here are some key concepts :
+
+Classes: Classes are blueprints for creating objects. They define the attributes and methods that an object will have. For example, you might have a class called Car with attributes like color and brand, and methods like drive() and stop().
+
+Objects (Instances): Objects are instances of classes. When you create an object from a class, you're creating a specific instance of that class with its own set of data and methods.
+
+Attributes: Attributes are the properties or data associated with a class or object. For instance, in a Car class, color and brand could be attributes.
+
+Methods: Methods are functions defined within a class that can operate on the attributes of that class. In the Car class example, drive() and stop() could be methods.
+
+Inheritance: Inheritance allows a class to inherit attributes and methods from another class. This promotes code reuse and allows for the creation of hierarchical relationships between classes. For example, you might have a Vehicle class with common attributes and methods shared by different types of vehicles, and then subclasses like Car and Motorcycle that inherit from Vehicle.
+
+Encapsulation: Encapsulation is the bundling of data and methods that operate on that data within one unit, typically a class. It allows for better control over the accessibility of data and prevents unintended changes.
+
+Polymorphism: Polymorphism allows objects of different classes to be treated as objects of a common superclass. This enables flexibility and extensibility in code design. For instance, different types of vehicles might have their own implementations of a drive() method, but you can treat them uniformly as instances of a common Vehicle superclass.
